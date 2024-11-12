@@ -1,0 +1,23 @@
+h1 {
+color: floral-white;
+}
+
+.container {
+background-color: #EDE7D7;
+}
+footer{
+	text-align: center;
+	font-family: times new roman;
+	color: brown;
+}
+body {
+	background-image: url("mango.jpg");
+    color: brown;
+    font-family: Quicksand;
+}
+tbody{
+
+	font-family: Barlow;
+}
+
+/*style for image*/
